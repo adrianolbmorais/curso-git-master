@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "63c1cf7c1c64a115",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa9fc2c1aac202c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56119028e3ae18e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8683e2df401b873c",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b414df87a0ffef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d7c607df1d246a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "547a8dd5ab4b8893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f0f71d022fc94d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94c9c4824ef5e6c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "20056086e119f902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "487e5a3771683688",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git-brain/Imagens/git Architecture Image.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2859351081462ebf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git-brain/Imagens/git Architecture Image.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e47ff6cfab3abb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9e4b7c17a2b0231",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git-brain/Imagens/git Architecture Image.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d7c607df1d246a1",
+  "lastOpenFiles": [
+    "git-brain/Imagens",
+    "git-brain/Curso-git-master/aula-01-configuração-inicial-git/01 - Roteiro configuração inicial do git..md",
+    "README.md",
+    "git-brain/Imagens/git Architecture Image4.jpeg",
+    "git-brain/Imagens/git Architecture Image2.png",
+    "git-brain/Imagens/git Architecture Image3.png",
+    "git-brain/Imagens/git Architecture Image.jpg"
+  ]
+}

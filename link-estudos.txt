@@ -1,0 +1,2 @@
+https://www.alibabacloud.com/blog/a-detailed-explanation-of-the-underlying-data-structures-and-principles-of-git_597391
+https://www.tabnews.com.br/danilocarsan/este-e-um-guia-guia-de-versionamento-nomenclatura-git-que-usso-e-tenho-melhorado-o-que-eu-pederia-melhorar-aberto-a-sugestao-e-discussao
